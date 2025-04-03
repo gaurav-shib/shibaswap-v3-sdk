@@ -1,4 +1,5 @@
 {
+  "name": "shibaswap-v3-sdk",
   "private": true,
   "type": "module",
   "scripts": {
