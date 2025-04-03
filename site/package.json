@@ -4,8 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vocs dev",
-    "build": "vocs build",
+    "dev": "node init && vocs dev",
+    "build": "node init && vocs build",
     "preview": "vocs preview"
   },
   "scarfSettings": {
